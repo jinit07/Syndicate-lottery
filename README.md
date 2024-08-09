@@ -4,6 +4,7 @@ The Syndicate Lottery project is a groundbreaking decentralized platform that le
 In this innovative system, a single user has the authority to host prize distribution raffles, undergoing rigorous verification checks to uphold trust and transparency within the community. Post-verification, the host can engage in a multitude of activities, including sending referral invitations to friends, orchestrating multiple lotteries, and actively partaking in them. 
 
 Participants are presented with the opportunity not only to secure significant prizes but also to earn rewards through a meticulously designed loyalty program that celebrates consistent engagement. The integration of Wanchain's cross-chain capabilities guarantees that lottery results are generated and disseminated transparently across multiple blockchain networks, reinforcing a sense of fairness and inclusivity. This avant-garde approach firmly establishes Syndicate Lottery as a trailblazer in the decentralized gaming and rewards arena.
+![WhatsApp Image 2024-08-09 at 12 20 01_bdbc0a1b](https://github.com/user-attachments/assets/18d0f594-3f2a-4118-9ace-c8a6b2d7d21a)
 
 
 ## Features of  project:
